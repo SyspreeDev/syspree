@@ -54,7 +54,7 @@ export default function ContactSection() {
 
           {/* WhatsApp */}
           <a
-            href="https://wa.me/8976810289"
+            href="https://wa.me/918976810289"
             target="_blank"
             className="flex items-center gap-3 border-4 border-black px-6 py-3 rounded-xl font-bold hover:bg-orange-50 transition w-full sm:w-auto"
           >
