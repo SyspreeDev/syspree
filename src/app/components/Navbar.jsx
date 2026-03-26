@@ -5,7 +5,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="w-full border-black bg-white sticky top-0 z-50">
+    <nav className="w-full border-black bg-orange-50 sticky top-0 z-50">
       <div className="flex items-center justify-between px-6 py-4">
         {/* LOGO */}
         <img src="/syspree-logo.jpg" alt="Company Logo" className="w-25" />

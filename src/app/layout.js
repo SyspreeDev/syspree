@@ -1,6 +1,7 @@
 import { Space_Mono, Bungee } from "next/font/google";
 import Navbar from "./components/Navbar";
 import "./globals.css";
+import Footer from "./components/Footer";
 
 /* ================= FONTS ================= */
 const spaceMono = Space_Mono({
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
         <Navbar/>
         {children}
+        <Footer/>
       </body>
     </html>
   );

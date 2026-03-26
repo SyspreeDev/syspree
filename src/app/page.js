@@ -1,16 +1,13 @@
 import HeroSection from "./components/HeroSection";
-import ContactHR from "./components/ContactHR";
-import ApplyForm from "./components/Apply";
+import CareerSection from "./components/CareerSection";
+import ContactSection from "./components/ContactSection";
 import WhatsappButton from "./components/Whatsapp";
-import CareerSection from "./components/HeroSection";
-
 export default function Home() {
   return (
     <>
       <HeroSection />
       <CareerSection/>
-      <ContactHR />
-      <ApplyForm />
+      <ContactSection/>
       <WhatsappButton />
     </>
   );
