@@ -55,9 +55,6 @@ export default function Navbar() {
           <a href="#contact" className="block">
             Connect With Us
           </a>
-          <a href="#apply" className="block">
-            Apply
-          </a>
         </div>
       )}
     </nav>

@@ -2,7 +2,7 @@
 
 export default function Footer() {
   return (
-    <footer className="bg-orange-50 border-4 border-black border-t-0 py-6">
+    <footer className="sticky top-0 bg-orange-50 border-4 border-black border-t-0 py-6">
       <div className="w-full px-6 md:px-16 lg:px-24 flex flex-col md:flex-row items-center justify-between gap-4">
 
         {/* Left */}
