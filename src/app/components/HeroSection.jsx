@@ -5,7 +5,7 @@ export default function HeroSection() {
   return (
 <section
   id="home"
-  className="sticky top-0 min-h-screen border-4 border-black flex items-start bg-white"
+  className=" min-h-screen border-4 border-black flex items-start bg-white"
 >
   <div className="w-full px-5 sm:px-6 md:px-16 lg:px-24 py-14 md:py-16 grid md:grid-cols-2 gap-12 items-center">
 
