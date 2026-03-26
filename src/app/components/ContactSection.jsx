@@ -25,7 +25,7 @@ export default function ContactSection() {
         <div className="mt-10 flex flex-col sm:flex-row sm:flex-wrap gap-4">
           {/* Instagram */}
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/syspree/?hl=en"
             target="_blank"
             className="flex items-center gap-3 border-4 border-black px-6 py-3 rounded-xl font-bold hover:bg-orange-50 transition"
           >
@@ -35,7 +35,7 @@ export default function ContactSection() {
 
           {/* LinkedIn */}
           <a
-            href="https://linkedin.com"
+            href="https://in.linkedin.com/company/syspreedigital"
             target="_blank"
             className="flex items-center gap-3 border-4 border-black px-6 py-3 rounded-xl font-bold hover:bg-orange-50 transition"
           >
@@ -45,25 +45,16 @@ export default function ContactSection() {
 
           {/* Email */}
           <a
-            href="mailto:hr@syspree.com"
+            href="mailto:hr@syspreedigital.com"
             className="flex items-center gap-3 border-4 border-black px-6 py-3 rounded-xl font-bold hover:bg-orange-50 transition"
           >
             <FaEnvelope />
             Email Us
           </a>
 
-          {/* Phone */}
-          <a
-            href="tel:+919876543210"
-            className="flex items-center gap-3 border-4 border-black px-6 py-3 rounded-xl font-bold hover:bg-orange-50 transition w-full sm:w-auto"
-          >
-            <FaPhoneAlt className="text-lg" />
-            Call Us
-          </a>
-
           {/* WhatsApp */}
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/8976810289"
             target="_blank"
             className="flex items-center gap-3 border-4 border-black px-6 py-3 rounded-xl font-bold hover:bg-orange-50 transition w-full sm:w-auto"
           >
