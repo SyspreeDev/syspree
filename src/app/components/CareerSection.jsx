@@ -60,7 +60,7 @@ export default function CareerSection() {
           </div>
 
           {/* Card 3 */}
-          {/* <div className="p-6 border-4 border-black rounded-xl hover:bg-orange-50 transition flex flex-col justify-between">
+          <div className="p-6 border-4 border-black rounded-xl hover:bg-orange-50 transition flex flex-col justify-between">
             <div>
               <h3 className="text-xl font-bold">View Our Team</h3>
               <p className="mt-2 text-sm">
@@ -75,7 +75,7 @@ export default function CareerSection() {
             >
               Get Started →
             </a>
-          </div> */}
+          </div>
         </div>
       </div>
     </section>
