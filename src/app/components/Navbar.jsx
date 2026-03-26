@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="w-full border-black bg-orange-50 sticky top-0 z-50">
       <div className="flex items-center justify-between px-6 py-4">
         {/* LOGO */}
-        <img src="/syspree-logo.jpg" alt="Company Logo" className="w-25" />
+        <img src="/syspree.png" alt="Company Logo" className="w-25" />
 
         {/* DESKTOP MENU */}
         <ul className="hidden md:flex gap-8 font-bold">
