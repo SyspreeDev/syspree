@@ -11,7 +11,7 @@ export default function Footer() {
         </p>
 
         {/* Right - Links */}
-        <div className="flex gap-6 text-sm font-semibold">
+        {/* <div className="flex gap-6 text-sm font-semibold">
           <a
             href="#home"
             className="hover:text-orange-500 transition"
@@ -30,7 +30,7 @@ export default function Footer() {
           >
             Contact
           </a>
-        </div>
+        </div> */}
 
       </div>
     </footer>
