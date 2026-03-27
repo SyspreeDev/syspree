@@ -26,7 +26,7 @@ export default function HeroSection() {
         href="https://syspree.com/"
         target="_blank"
         rel="noopener noreferrer"
-        className="mt-6 inline-block bg-white border-4 border-black px-7 py-3 rounded-full text-sm font-bold hover:bg-orange-200 transition"
+        className="mt-6 inline-block bg-orange-50 border-4 border-black px-7 py-3 rounded-full text-sm font-bold hover:bg-orange-200 transition"
       >
         Visit Website
       </a>
