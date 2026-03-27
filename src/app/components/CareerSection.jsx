@@ -32,7 +32,7 @@ export default function CareerSection() {
             </div>
 
             <a
-              href="https://syspree.com/careers"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSf55iujhtfxKblEwrh7GiofSpxl2VEJdsrT0ve8doY53Zxu7g/viewform?usp=header"
               target="_blank"
               className="mt-6 inline-block bg-orange-400 border-4 border-black px-4 py-2 rounded-lg font-bold text-center hover:bg-orange-500 transition"
             >
