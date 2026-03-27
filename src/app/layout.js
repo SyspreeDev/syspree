@@ -17,8 +17,8 @@ const bungee = Bungee({
 });
 
 export const metadata = {
-  title: "Job Fair 🚀",
-  description: "Funky hiring landing page",
+  title: "Syspree | Digital Marketing & Web Development Company",
+  description: "Syspree is a leading digital marketing and web development company helping businesses grow with innovative strategies and technology-driven solutions.",
 };
 
 export default function RootLayout({ children }) {
